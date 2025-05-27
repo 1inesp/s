@@ -1,0 +1,12 @@
+{
+  "pull_request": {
+    "head": {
+      "repo": {
+        "full_name": "your_username/your_reponame"
+      }
+    }
+  },
+    "repository": {
+        "full_name": "your_username/your_reponame"
+    }
+}
