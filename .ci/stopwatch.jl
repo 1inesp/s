@@ -98,4 +98,5 @@ function trigger_new_automerge_if_necessary()
     return nothing
 end
 
+println("nya!")
 trigger_new_automerge_if_necessary()
